@@ -1,0 +1,19 @@
+#readme.dat
+
+# constant.py -------------------------Defines Reynolds number, convergence tolerance, and mesh size
+# mesh.py------------------------------Initializes the domain, control volume, and geometric spacing
+# coefficients.py----------------------Computes convection-diffusion coefficients using the power-law scheme
+# solver.py----------------------------Contains the core SIMPLE algorithm logic: momentum predictor, pressure corrector, and velocity correction
+# plotting.py--------------------------Handles streamlines, pressure contour plots, and centerline extraction
+# main.py------------------------------Orchestrates the simulation loop for Re = 100, 400, and 1000
+
+
+# Instructions to run the code:
+	#1. Open terminal
+	#2. Go into the directory containing these Python scripts
+	#3. Write in the command line: "python3 main.py"
+
+# project_report---------contains the elaboration of the project
+# project.pptx-----------contains the PowerPoint presentation described in the video
+
+# Thank you!
