@@ -104,4 +104,4 @@ Velocity scaled by *U*, length by *L*, pressure by *ρU²*.
 
 **Ranabir Saha**  
 Ph.D. Student, Mechanical Engineering — Iowa State University  
-[LinkedIn](https://www.linkedin.com/in/<your-profile>) • [GitHub](https://github.com/<your-username>)
+[LinkedIn]([https://www.linkedin.com/in/<your-profile>](https://www.linkedin.com/in/ranabir-saha/)) • [GitHub]([https://github.com/<your-username>](https://github.com/Ranabir034))
